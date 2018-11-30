@@ -1,0 +1,11 @@
+#'''
+#ubuntu-provision
+#/.gitignore
+#©James Walker 2018. Public domain software.
+#'''
+
+.sublime/
+
+#'''
+#End of file.
+#'''
